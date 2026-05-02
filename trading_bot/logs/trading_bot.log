@@ -1,0 +1,1 @@
+2026-05-02 09:54:16,844 | INFO     | __main__ | CLI invoked with args: {'verbose': False, 'command': 'place', 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'price': None, 'stop_price': None, 'func': <function cmd_place at 0x00000211B7ACB9C0>}
